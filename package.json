@@ -1,0 +1,37 @@
+{
+  "name": "flowpro-storyboard-app",
+  "version": "1.0.0",
+  "description": "Professional Film Production Platform - AI-Enhanced Storyboard & Script Management",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@google/generative-ai": "^0.24.1",
+    "typescript": "^5.6.3",
+    "vite": "^6.2.6",
+    "tailwindcss": "^3.4.15",
+    "lucide-react": "^0.364.0",
+    "zustand": "^5.0.2",
+    "@radix-ui/react-dialog": "^1.1.4",
+    "@radix-ui/react-tabs": "^1.1.2",
+    "clsx": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.2",
+    "@vitejs/plugin-react": "^4.3.4"
+  },
+  "keywords": ["film", "production", "storyboard", "AI", "react", "typescript"],
+  "author": "Louna Studios",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LounaMediSolutions/flowpro-storyboard-app.git"
+  },
+  "homepage": "https://zrn7unin28.space.minimax.io"
+}
